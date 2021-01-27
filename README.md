@@ -1,2 +1,2 @@
 # light_calculator
-Lightweight and beautiful calculator.
+my first flutter app :)
