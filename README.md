@@ -1,4 +1,4 @@
-# light_calculator
+# Light Calculator
 
 ### My first flutter project :)
 A simple and beautiful calculator app. 🔥🔥🔥
