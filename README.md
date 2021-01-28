@@ -5,5 +5,5 @@ A simple and beautiful calculator app. 🔥🔥🔥
 <br/>
 <br/>
 <p align="center">
-  <img src="https://github.com/hicte/light_calculator/blob/main/Screenshot.jpeg" width="500" alt="Screenshot">
+  <img src="Screenshot.jpeg" width="500" alt="Screenshot">
 </p>
